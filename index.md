@@ -1,37 +1,35 @@
-## KuailE.geihub.io
+<section class="page-header">
+    <h1 class="project-name">Kuaile</h1>
+    <h2 class="project-tagline">通过Github搭建的简单的个人博客</h2>
+    <h3>在小的时候就对于智能方面产生了浓厚的兴趣.</h3>
+    <!-- <a href="#" class="btn">按钮</a> -->
+</section>
 
-You can use the [editor on GitHub](https://github.com/KuailEzjj/KuailE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<table border="0">
+    <tr>
+        <td width="75%">
+        <h1>Kuaile</h1>
+            <p><b>大专学生</b></p>
+            <p><b>邮箱:861792822@qq.com</b></p>
+            <p><b>地址:中国河南</b></p>
+        </td>
+        <td width="25%">
+            <img src="http://q1.qlogo.cn/g?b=qq&nk=1754798088&s=640">
+        </td>
+    </tr>
+</table>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<h1>
+    <a id="header-3" class="anchor" href="#header-3" aria-hidden="true" one-link-mark="yes"><span class="octicon octicon-link"></span></a>
+    个人爱好
+</h1>
+<p>平常喜欢去旅游，去看一下风景，偶尔喜欢玩玩游戏</p>
 
-### Markdown
+<h1>
+    <a id="header-3" class="anchor" href="#header-3" aria-hidden="true" one-link-mark="yes"><span class="octicon octicon-link"></span></a>
+    学习历程
+</h1>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/KuailEzjj/KuailE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<ul class="task-list">
+<p>熟悉基础:</p>
+    <li>VB6.0</li>
