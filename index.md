@@ -32,4 +32,4 @@
 
 <ul class="task-list">
 <p>熟悉基础:</p>
-    <li>VB6.0</li>
+    <li>H5C3，JavaScript，jQuery，bootstrap，swiper，Vue等成熟的框架技术</li>
