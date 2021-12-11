@@ -14,7 +14,7 @@
             <p><b>地址:中国河南</b></p>
         </td>
         <td width="25%">
-            <img src="http://q1.qlogo.cn/g?b=qq&nk=1754798088&s=64">
+            <img src="https://github.com/KuailEzjj/KuailE/blob/gh-pages/QQ%E5%9B%BE%E7%89%8720211211231944.jpg">
         </td>
     </tr>
 </table>
