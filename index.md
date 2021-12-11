@@ -7,7 +7,7 @@
 
 <table border="0">
     <tr>
-        <td width="75%">
+        <td width="55%">
         <h1>Kuaile</h1>
             <p><b>大专学生</b></p>
             <p><b>邮箱:861792822@qq.com</b></p>
