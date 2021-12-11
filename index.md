@@ -7,13 +7,13 @@
 
 <table border="0">
     <tr>
-        <td width="55%">
+        <td width="75%">
         <h1>Kuaile</h1>
             <p><b>大专学生</b></p>
             <p><b>邮箱:861792822@qq.com</b></p>
             <p><b>地址:中国河南</b></p>
         </td>
-        <td width="45%">
+        <td width="25%">
             <img src="https://github.com/KuailEzjj/KuailE/blob/gh-pages/QQ%E5%9B%BE%E7%89%8720211211231944.jpg">
         </td>
     </tr>
