@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## KuailE.geihub.io
 
 You can use the [editor on GitHub](https://github.com/KuailEzjj/KuailE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
