@@ -21,7 +21,7 @@
 
 <h1>
     <a id="header-3" class="anchor" href="#header-3" aria-hidden="true" one-link-mark="yes"><span class="octicon octicon-link"></span></a>
-    个人爱好
+    喜爱
 </h1>
 <p>平常喜欢去旅游，去看一下风景，偶尔喜欢玩玩游戏</p>
 
